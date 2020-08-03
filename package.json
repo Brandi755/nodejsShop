@@ -1,0 +1,19 @@
+{
+  "name": "nodejsshop",
+  "version": "1.0.0",
+  "description": "test shop",
+  "main": "server.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandi755/nodejsShop.git"
+  },
+  "author": "BRANDI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brandi755/nodejsShop/issues"
+  },
+  "homepage": "https://github.com/Brandi755/nodejsShop#readme"
+}
